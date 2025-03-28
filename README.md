@@ -1,1 +1,1 @@
-wndxTheme, the Obsidian theme for the nerds
+Obsidian theme for the nerds.
