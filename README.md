@@ -1,1 +1,1 @@
-Obsidian theme for the nerds.
+Obsidian theme for the non-nerds.
