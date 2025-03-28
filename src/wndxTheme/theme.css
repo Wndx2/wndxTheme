@@ -6,11 +6,10 @@ GITHUB: https://github.com/wndx2
 .theme-dark {
 
 
-  /* VARIABLE CONFIGURATIONS BASE ORDER FROM DARKEST -> LIGHTEST */
+  /* VARIABLE CONFIGURATION */
   --base-0: #070811;
   --base-1: #0C0D19;
   --base-2: #313244;
-
 
   /* BACKGROUND COLOR SCHEMES */
   --background-primary: var(--base-1);
@@ -42,6 +41,7 @@ GITHUB: https://github.com/wndx2
   --h5-color: var(--blue);
   --h6-color: var(--purple);
 
+  /* TEXT COLORS */
   --text-normal: var(--white);
   --text-muted: var(--grey);
   --text-success: var(--green);
@@ -53,6 +53,7 @@ GITHUB: https://github.com/wndx2
   --bold-color: var(--blue);
   --hr-color: var(--base-2);
 
+  /* TEXT COLORS */
   --graph-node: var(--white);
   --graph-line: var(--base-2);
   --graph-node-attachment: var(--dark-blue);
