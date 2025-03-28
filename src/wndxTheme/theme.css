@@ -1,11 +1,7 @@
-/* 
-< CUSTOM OBSIDIAN THEME PRACTICE >
-GITHUB: https://github.com/wndx2
-*/
+/* wndxTheme: Obsidian theme for the nerds. */
+/* PULL REQUEST ON: https://github.com/Wndx2/wndxTheme */
 
 .theme-dark {
-
-
   /* VARIABLE CONFIGURATION */
   --base-0: #070811;
   --base-1: #0C0D19;
@@ -58,5 +54,4 @@ GITHUB: https://github.com/wndx2
   --graph-line: var(--base-2);
   --graph-node-attachment: var(--dark-blue);
   --graph-node-tag: var(--dark-purple);
-
 }
