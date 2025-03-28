@@ -1,1 +1,1 @@
-Obsidian theme for the non-nerds.
+i love obsidian
