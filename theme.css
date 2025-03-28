@@ -1,0 +1,61 @@
+/* 
+< CUSTOM OBSIDIAN THEME PRACTICE >
+GITHUB: https://github.com/wndx2
+*/
+
+.theme-dark {
+
+
+  /* VARIABLE CONFIGURATIONS BASE ORDER FROM DARKEST -> LIGHTEST */
+  --base-0: #070811;
+  --base-1: #0C0D19;
+  --base-2: #313244;
+
+
+  /* BACKGROUND COLOR SCHEMES */
+  --background-primary: var(--base-1);
+  --background-secondary: var(--base-0);
+  --titlebar-background-focused: var(--base-0);
+  --divider-color: var(--base-0);
+
+  /* COLOR VARIABLES */
+  --pink: #F48FB1;
+  --red: #E57373;
+  --orange: #FFB74D;
+  --yellow: #FFF176;
+  --green: #81C784;
+  --cyan: #4DD0E1;
+  --blue: #64B5F6;
+  --blurple: #7986CB;
+  --purple: #9575CD;
+  --white: #cdd6f4;
+  --grey: #a6adc8;
+
+  --dark-blue: #3949AB;
+  --dark-purple: #5E35B1;
+
+  /* HEADING COLORS */
+  --h1-color: var(--red);
+  --h2-color: var(--orange);
+  --h3-color: var(--green);
+  --h4-color: var(--cyan);
+  --h5-color: var(--blue);
+  --h6-color: var(--purple);
+
+  --text-normal: var(--white);
+  --text-muted: var(--grey);
+  --text-success: var(--green);
+  --text-warning: var(--yellow);
+  --text-error: var(--red);
+
+  --text-accent: var(--blurple);
+
+  --bold-color: var(--blue);
+  --hr-color: var(--base-2);
+
+  --graph-node: var(--white);
+  --graph-line: var(--base-2);
+  --graph-node-attachment: var(--dark-blue);
+  --graph-node-tag: var(--dark-purple);
+
+}
