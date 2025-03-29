@@ -1,1 +1,1 @@
-i love obsidian
+readme coming soon (i think)
