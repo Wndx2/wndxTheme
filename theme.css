@@ -1,4 +1,5 @@
-/* i am not making light mode theme */
+
+/* 세미콜론이 왜 들어가는데 시바 */
 
 .theme-dark {
 	/* COLOR VARIABLE CONFIGURATION */
@@ -40,8 +41,8 @@
 	--bold-color: var(--cyan); /* BOLD TEXT COLOR					EG: **TEXT** 		*/
 	--italic-color: var(--magenta); /* ITALIC TEXT COLOR 			EG: *TEXT*			*/
 
-	--tag-color: var(--yellow); /* PAGE-INTERNAL TAGS 				EG: #TAG 			*/
-	--link-color: var(--yellow); /* PAGE-LINKING USING 				EG: [[PAGE]] 		*/
+	--tag-color: var(); /* PAGE-INTERNAL TAGS 						EG: #TAG 			*/
+	--link-color: var(); /* PAGE-LINKING USING 						EG: [[PAGE]] 		*/
 
 	/* TABLE CONFIGURATIONS */
 	table {
